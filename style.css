@@ -30,7 +30,7 @@ body{
 .logo{
     display: flex;
     align-items: center;
-    font-size: 14px;
+    font-size: 24px;
     font-weight: 600;
     color: #fff;
 }
@@ -43,7 +43,7 @@ body{
 
 .menu-items{
     display: flex;
-    gap: 2rem;
+    gap: 3rem;
 }
 
 li{
@@ -54,7 +54,7 @@ li{
 a{
     text-decoration: none;
     color: #fff;
-    font-size: 14px;
+    font-size: 24px;
     display: block;
     transition: 0.3s ease;
 }
@@ -66,7 +66,7 @@ a:hover{
 
 section{
     height: 100vh;
-    padding: 3rem;
+    padding-top: 6rem;
 }
 
 .section-one{
@@ -90,7 +90,7 @@ section{
     line-height: 1.2;
 }
 .title h1{
-    font-size: 40px;
+    font-size: 60px;
     text-transform: capitalize;
     margin-bottom: 0.5rem;
     color: #fff;
@@ -101,7 +101,7 @@ section{
 }
 
 p{
-    font-size: 14px;
+    font-size: 24px;
     font-weight: 600;
     max-width: 400px;
 }
