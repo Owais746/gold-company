@@ -50,7 +50,7 @@ gsap.from('.side-one h1' , {
     duration:1,
     delay:1,
     stagger:{
-        amount:.4
+    amount:.4
     }
 })
 
@@ -61,7 +61,7 @@ gsap.from('.skew' ,{
     opacity:0,
     y:50,
     stagger:{
-        amount:.4
+    amount:.4
     }
 })
 

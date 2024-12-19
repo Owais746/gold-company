@@ -106,8 +106,6 @@ a{
     margin: 1rem;
     padding-right: 3rem;
 }
-
-
 .skew::before{
     content: '';
     position: absolute;
@@ -122,9 +120,7 @@ a{
     transition: all 0.8s cubic-bezier(0.42, 0 , 0.58 , 1) 0s;
     transform-origin: bottom left;
     transform: skew(-20deg,0deg);
-
 }
-
 
 .skew:hover{
     background: transparent;
